@@ -67,7 +67,6 @@ To combine business experience, technology, AI, and international perspectives t
 
 - GitHub: [Github](https://github.com/dithalee16)
 - LinkedIn: [LinkedIn](https://id.linkedin.com/in/ditha-lee-9305a2a9)
-- Listen: [Spotify](https://open.spotify.com/artist/2e8OR2fUkShmG2xTzrbu5q).
 
 *Learning continuously. Building practically. Improving every day.*
 
