@@ -68,21 +68,18 @@ To combine business experience, technology, AI, and international perspectives t
 
 Explore my music and discover my releases on Spotify.
 
+## 📸 Photo Portfolio
 
-## 📸 My Photo Portfolio
+<p align="center">
+  <img src="images/20240910_160101.jpg" width="30%" alt="Portfolio photo 1" />
+  <img src="images/20240910_164652.jpg" width="30%" alt="Portfolio photo 2" />
+  <img src="images/20240910_185608.jpg" width="30%" alt="Portfolio photo 3" />
+</p>
 
-### Featured Photos
-
-![My Photo 1]([20240910_160101.jpg](https://github.com/dithalee16/dithalee16/blob/main/images/20240910_160101.jpg))
-
-![My Photo 2]([20240910_164652.jpg](https://github.com/dithalee16/dithalee16/blob/main/images/20240910_164652.jpg))
-
-![My Photo 3]([20240910_185608.jpg](https://github.com/dithalee16/dithalee16/blob/main/images/20240910_185608.jpg))
-
-![My Photo 4]([20240910_190129.jpg](https://github.com/dithalee16/dithalee16/blob/main/images/20240910_190129.jpg))
-
-![My Photo 5]([20240910_191252.jpg](https://github.com/dithalee16/dithalee16/blob/main/images/20240910_191252.jpg))
-
-![My Photo 6]([20240911_115348.jpg](https://github.com/dithalee16/dithalee16/blob/main/images/20240911_115348.jpg))
+<p align="center">
+  <img src="images/20240910_190129.jpg" width="30%" alt="Portfolio photo 4" />
+  <img src="images/20240910_191252.jpg" width="30%" alt="Portfolio photo 5" />
+  <img src="images/20240911_115348.jpg" width="30%" alt="Portfolio photo 6" />
+</p>
 
 
