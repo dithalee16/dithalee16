@@ -62,10 +62,27 @@ To combine business experience, technology, AI, and international perspectives t
 
 *Learning continuously. Building practically. Improving every day.*
 
-
 ## 🎧 Find Me on Spotify
 
 [![Spotify Artist](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2e8OR2fUkShmG2xTzrbu5q)
 
 Explore my music and discover my releases on Spotify.
+
+
+## 📸 My Photo Portfolio
+
+### Featured Photos
+
+![My Photo 1](20240910_160101.jpg)
+
+![My Photo 2](20240910_164652.jpg)
+
+![My Photo 3](20240910_185608.jpg)
+
+![My Photo 3](20240910_190129.jpg)
+
+![My Photo 3](20240910_191252.jpg)
+
+![My Photo 3](20240911_115348.jpg)
+
 
