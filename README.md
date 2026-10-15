@@ -57,6 +57,6 @@ To combine business experience, technology, AI, and international perspectives t
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/dithalee16
-- LinkedIn: [Add your LinkedIn profile URL here](https://id.linkedin.com/in/ditha-lee-9305a2a9)
+- LinkedIn: [LinkedIn](https://id.linkedin.com/in/ditha-lee-9305a2a9)
 
 *Learning continuously. Building practically. Improving every day.*
