@@ -80,7 +80,7 @@ Explore my music and discover my releases on Spotify.
 ## 📸 Photo Portfolio
 
 <p align="center">
-  <img src="images/20240910_160101.jpg" width="30%" alt="Portfolio photo 1" />
+  <img src="images/20240911_115348.jpg" width="30%" alt="Portfolio photo 1" />
   <img src="images/20240910_164652.jpg" width="30%" alt="Portfolio photo 2" />
   <img src="images/20240910_185608.jpg" width="30%" alt="Portfolio photo 3" />
 </p>
@@ -88,7 +88,7 @@ Explore my music and discover my releases on Spotify.
 <p align="center">
   <img src="images/20240910_190129.jpg" width="30%" alt="Portfolio photo 4" />
   <img src="images/20240910_191252.jpg" width="30%" alt="Portfolio photo 5" />
-  <img src="images/20240911_115348.jpg" width="30%" alt="Portfolio photo 6" />
+  <img src="images/20240910_160101.jpg" width="30%" alt="Portfolio photo 6" />
 </p>
 
 
