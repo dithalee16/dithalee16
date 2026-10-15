@@ -31,6 +31,15 @@ I am passionate about using AI, technology, and project management to improve wo
 - Business: Operations, Customer Service, R&D, and Coordination
 - Languages: English (C1); conversational Chinese and Korean
 
+## 🎓 English Proficiency
+
+[![EF SET Certificate](https://img.shields.io/badge/EF%20SET-English%20Certificate-blue?style=for-the-badge)](https://cert.efset.org/cGRuAk?trk=public_profile_see-credential)
+
+**Certification:** EF SET English Certificate  
+**CEFR Level:** [Add your certified level here]
+
+🔗 [View My Verified EF SET Certificate](https://cert.efset.org/cGRuAk?trk=public_profile_see-credential)
+
 ## 📚 Certifications & Training
 
 - Google Project Management
