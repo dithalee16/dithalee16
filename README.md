@@ -92,4 +92,8 @@ These photos were taken by using Android Phone without any additional editing.
   <img src="images/20240910_160101.jpg" width="30%" alt="Portfolio photo 6" />
 </p>
 
-
+<p align="center">
+  <img src="images/20250719_154324.jpg" width="30%" alt="Portfolio photo 7" />
+  <img src="images/20260123_194327.jpg" width="30%" alt="Portfolio photo 8" />
+  <img src="images/20260626_190939.jpg" width="30%" alt="Portfolio photo 9" />
+</p>
