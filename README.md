@@ -61,3 +61,11 @@ To combine business experience, technology, AI, and international perspectives t
 - Listen: [Spotify](https://open.spotify.com/artist/2e8OR2fUkShmG2xTzrbu5q).
 
 *Learning continuously. Building practically. Improving every day.*
+
+
+## 🎧 Find Me on Spotify
+
+[![Spotify Artist](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2e8OR2fUkShmG2xTzrbu5q)
+
+Explore my music and discover my releases on Spotify.
+
