@@ -78,7 +78,7 @@ Explore my music and discover my releases on Spotify.
 
 ## 📸 Photo Portfolio
 
-These photos were taken by using Android Phone without any additional edit or filter.
+These photos were taken by using Android Phone without any additional editing.
 
 <p align="center">
   <img src="images/20240911_115348.jpg" width="30%" alt="Portfolio photo 1" />
