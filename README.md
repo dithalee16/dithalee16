@@ -8,7 +8,8 @@ I am a business and operations professional with experience in fulfillment coord
 
 I am passionate about using AI, technology, and project management to improve workflows, solve business problems, and support data-driven decisions.
 
-<p"A strategist by experience, a researcher by curiosity, an artist by passion, and a lifelong student by choice. With a background in English Education and professional experience in executive assistance, project management, research, and operations, she moves comfortably between business, technology, communication, and creative pursuits.
+<p
+*"A strategist by experience, a researcher by curiosity, an artist by passion, and a lifelong student by choice. With a background in English Education and professional experience in executive assistance, project management, research, and operations, she moves comfortably between business, technology, communication, and creative pursuits.
 
 Fluent in multiple languages and continuously expanding her knowledge, she has explored disciplines ranging from IT and psychology to project management and software development.
 
